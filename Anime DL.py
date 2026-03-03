@@ -9,13 +9,13 @@ import shutil
 from pathlib import Path
 
 # --- Gestionnaire des var ---
-__version__ = "3.2"
+__version__ = "3.3"
 GITHUB_REPO = "Alu-Speed/anime-sama-dl"
 FAV_FILE = os.path.join(os.environ["APPDATA"], "Alu-Speed Co", "fav_dirs.json")
 HISTORIQUE = os.path.join(os.environ["APPDATA"], "Alu-Speed Co", "history.json")
 
 os.system("title Générateur de liens yt-dlp v3")
-print("\n=== Générateur yt-dlp v3.2 ===")
+print("\n=== Générateur yt-dlp v3.3 ===")
 print("=== Powered by Alu-Speed ===")
 print("=== Vérification de la MàJ... ===")
 
