@@ -7,6 +7,7 @@ Vous pouvez choisir où le telecharger et comment.
 - Python 3.10+
 - yt-dlp (téléchargé automatiquement si absent)
 - pyperclip (optionnel, pour copier les liens)
+- tkinter (Pour la version GUI)
 
 # Fonctionnalités
 - Génération automatique des commandes yt-dlp pour télécharger des épisodes d’anime
@@ -16,8 +17,11 @@ Vous pouvez choisir où le telecharger et comment.
 - Vérification des fichiers téléchargés et relance des épisodes manquants
 - Système de favoris pour enregistrer des dossiers de téléchargement
 - Auto‑update du script via GitHub (téléchargement + remplacement + redémarrage)
-- Vérification automatique de yt-dlp et installation si absent
+- Vérification automatique de yt-dlp, pyperclip, et autres dépendances, et installation si absent
 - Interface console simple et lisible
+- Interface GUI
+- Possibilité d'utiliser un proxy
+- Langue FR/EN
 
 
 MERCI DE NE PAS RÉUTILISER MON TRAVAIL SANS ME CRÉDITER ET SANS AUTORISATION. PLEASE DO NOT REUSE MY WORK WITHOUT CREDITING ME AND WITHOUT PERMISSION.
