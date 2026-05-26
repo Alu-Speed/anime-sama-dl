@@ -8,6 +8,7 @@ Vous pouvez choisir où le telecharger et comment.
 - yt-dlp (téléchargé automatiquement si absent)
 - pyperclip (optionnel, pour copier les liens)
 - tkinter (Pour la version GUI)
+- Pillow (Pour la version GUI)
 
 # Fonctionnalités
 - Génération automatique des commandes yt-dlp pour télécharger des épisodes d’anime
