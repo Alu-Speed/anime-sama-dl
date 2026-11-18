@@ -1,0 +1,21 @@
+{
+  "news": [
+    {"date": "18/11/2026", "level": "info",
+     "text": "Nous essayons de prendre en charge Uqload, car il n'est pas pris en charge par le lecteur de base. Il peut y avoir des bugs, préferez Sendvid en cas de problème."}
+    {"date": "18/11/2026", "level": "warn",
+     "text": {"fr": "Sibnet est indisponible pour une durée indéterminée.",
+              "en": "Sibnet is down for an indefinite period."}},
+    {"date": "18/11/2026", "level": "info",
+     "text": "Lecteurs principaux du site : Uqload, VOE, Earnvids, Sendvid."}
+  ],
+  "changelog": [
+    {"version": "Dernière mise à jour — 18/11/2026",
+     "items": ["Nouveau système anime-sama (jeton + /api/lien.php).",
+               "Téléchargement Uqload via librairies intégrés.",
+               "Ajout de VOE, Earnvids ; Sibnet désactivé.",
+		"Ajout des suggestions en cas d'animé indisponibles ou introuvable", 
+		"Prise en charge FrAnime",
+		"Onglets Favoris, Journal, Options et Aide & News (re)créés.",
+		"En cas d'épisode supprimé chez un hébergeur : repli automatique sur un autre lecteur.]}
+  ]
+}
