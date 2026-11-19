@@ -1,7 +1,7 @@
 {
   "news": [
     {"date": "18/11/2026", "level": "info",
-     "text": "Nous essayons de prendre en charge Uqload, car il n'est pas pris en charge par le lecteur de base. Il peut y avoir des bugs, préferez Sendvid en cas de problème."}
+     "text": "Nous essayons de prendre en charge Uqload, car il n'est pas pris en charge par le lecteur de base. Il peut y avoir des bugs, préferez Sendvid en cas de problème."},
     {"date": "18/11/2026", "level": "warn",
      "text": {"fr": "Sibnet est indisponible pour une durée indéterminée.",
               "en": "Sibnet is down for an indefinite period."}},
