@@ -11,7 +11,8 @@ Vous pouvez choisir où le telecharger et comment.
 - Pillow (Pour la version GUI)
 
 # Fonctionnalités
-- Génération automatique des commandes yt-dlp pour télécharger des épisodes d’anime
+- Téléchargement automatique via le nom d'un animé ou suggestions basées sur le nom
+- Fonctionne sur Anime-Sama, et FrAnime (beta)
 - Gestion des saisons et numérotation automatique des épisodes
 - Copie des liens formatés dans le presse‑papier (si pyperclip est installé)
 - Téléchargement automatique dans une nouvelle fenêtre (via un script .bat temporaire)
@@ -19,6 +20,7 @@ Vous pouvez choisir où le telecharger et comment.
 - Système de favoris pour enregistrer des dossiers de téléchargement
 - Auto‑update du script via GitHub (téléchargement + remplacement + redémarrage)
 - Vérification automatique de yt-dlp, pyperclip, et autres dépendances, et installation si absent
+- Génération automatique des commandes yt-dlp pour télécharger des épisodes d’anime
 - Interface console simple et lisible
 - Interface GUI
 - Possibilité d'utiliser un proxy
