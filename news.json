@@ -1,6 +1,6 @@
 {
   "news": [
-    {"date": "18/11/2026", "level": "warn",
+    {"date": "20/11/2026", "level": "warn",
      "text": {"fr": "Retrait de FrAnime dû à une incompatibilité de l'app pour l'instant.",
               "en": "FrAnime has been removed due to an app incompatibility issue for the time being."}},
     {"date": "18/11/2026", "level": "info",
