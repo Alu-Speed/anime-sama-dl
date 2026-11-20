@@ -1,5 +1,8 @@
 {
   "news": [
+    {"date": "18/11/2026", "level": "warn",
+     "text": {"fr": "Retrait de FrAnime dû à une incompatibilité de l'app pour l'instant.",
+              "en": "FrAnime has been removed due to an app incompatibility issue for the time being."}},
     {"date": "18/11/2026", "level": "info",
      "text": "Nous essayons de prendre en charge Uqload, car il n'est pas pris en charge par le lecteur de base. Il peut y avoir des bugs, préferez Sendvid en cas de problème."},
     {"date": "18/11/2026", "level": "warn",
